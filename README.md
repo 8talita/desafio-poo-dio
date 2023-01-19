@@ -1,7 +1,8 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
-O desafio tem como objetivo relevante, exercitar umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> por meio de um projeto Java. </p>
+O desafio tem como objetivo, exercitar umas das principais ferramentas da OO: <strong>abstração, encapsulamento, herança e polimorfismo,</strong> por meio de um projeto Java.
 
-
+<p>
+    
 | **PRÉ-REQUISITOS** |
 |--------------|
 | Conhecer a sintaxe da Java | 
@@ -14,11 +15,11 @@ O desafio tem como objetivo relevante, exercitar umas das principais ferramentas
 * <h2> Passo-a-Passo</h2>
 
 <p>
-<strong>	1.</strong> Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS <br>
-<strong>	2.</strong> Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las <br>
-<strong>	3.</strong> As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS <br> 
-<strong>	4.</strong> Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO <br>
-<strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
+<strong>	1.</strong> Abstrair o domínio Bootcamp e modelar seus atributos e métodos; <br>
+<strong>	2.</strong> Criar as classes: Bootcamp, Cursos, Mentorias e Devs e relaciona-las; <br>
+<strong>	3.</strong> As classes Curso, Mentoria e Devs também serão modelados, com a criação dos seus atributos e métodos; <br> 
+<strong>	4.</strong> Utilizar de algumas das ferramentas que o paradigma de orientação a objetos (POO) ofereça: <strong>abstração, encapsulamento, herança e polimorfismo,</strong> assim o código ficará mais legível e de fácil manutenção; <br>
+<strong>	5.</strong> Representar classes que foram criadas e relacionadas, transformando-as em objetos.<br>
 </p>
 
 ----
@@ -94,25 +95,13 @@ Uma instância de uma classe é um novo objeto criado dessa classe, com o operad
 
 É uma linguagem formal que, através de várias, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.<br>
 
-
+-------------
 * <h2>  Paradigma de Linguagem de Programação </h2> 
 
 É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.<br>
 <br>
 
-<h2> 🤝 Contribuindo </h2>
+-----------
 
-<p>
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.<br>
-<br>
-Se possível:<br>
-⭐️  Star o projeto<br>
-🐛 Encontrar e relatar issues<br>
-</p>
+**OBS**: Toda trilha de estudos foi realizada com as orientações do curso da DIO, **Abstraindo um Bootcamp Usando Orientação a Objetos em Java**, ministrado pela teacher ♥  [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
